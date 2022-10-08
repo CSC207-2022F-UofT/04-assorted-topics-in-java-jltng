@@ -40,7 +40,7 @@ class DrivableMap {
      *       and returns true iff there is at least one item in drivable_map
      *       that has a maxSpeed >= the speed given.
      * You may want to use drivable_map.keys() or drivable_map.values() to
-     * iterate through drivable_map.
+     * iterate through drivable_map..
      */
     public boolean hasFasterThan(int speed) {
         for (Drivable value : drivable_map.values()) {

@@ -14,8 +14,7 @@ import java.util.List;
 
 class DrivableTrader extends Trader<Drivable> {
     /**
-     * A subclass of Trader.
-     * Contains only Drivable objects.
+     * A subclass of Trader, which contains only Drivable objects.
      *
      * @param inventory Objects in this DrivableTrader's inventory
      * @param wishlist  Objects in this DrivableTrader's wishlist

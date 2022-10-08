@@ -37,7 +37,7 @@ public class Trader<T> {
 
     /* TODO: Add a new constructor that takes a single argument
      *       representing the Trader's money. Give the Trader
-     *       empty ArrayLists for their inventory and wishlist.
+     *       empty ArrayLists for their inventory and wishlist..
      */
     public Trader(int money) {
         this.money = money;
